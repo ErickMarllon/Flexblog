@@ -1,9 +1,11 @@
 # Flexblog
 
-Nesse projeto pude aplicar um pouco dos conhecimentos que obtive em HTML5 e CSS Flexbox.
-Como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. 
+<p>Nesse projeto pude aplicar um pouco dos conhecimentos que obtive em HTML5 e CSS Flexbox. </p>
+<br>
+<p> Como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. </p>
 
 
-acesse o projeto pelo link abaixo.
+## Acesse o projeto clicando [Aqui](https://erickmarllon.github.io/Flexblog/)
+<p> ou </p>
 
 https://erickmarllon.github.io/Flexblog/
